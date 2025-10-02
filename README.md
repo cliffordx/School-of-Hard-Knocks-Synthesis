@@ -65,6 +65,8 @@ The collection and use of this metadata complies with YouTube's Terms of Service
 - Falls under fair use provisions for educational commentary and analysis
 - Includes proper attribution to the original content creators
 
-This project transforms publicly available data into an educational resource and does not compete with or harm the original channel's market presence.
+This project transforms publicly available data into an educational resource and does not compete with or harm the original channel's market presence. **[Thursday, October 2, 2025; 14:43:04]** The Paksiteer.
 
-**[Thursday, October 2, 2025; 14:43:04]** The Paksiteer.
+## Changelog
+[Thursday, October 2, 2025; 16:38:47]: Included the opml files (outline processor markup language) to be loaded into your own workflow/mindmap etc.
+
