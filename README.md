@@ -7,7 +7,7 @@ Welcome to the repository hosting the mindmap compendium based on "The School of
 The mindmap captures the comprehensive advice and strategies shared by James Dumoulin, co-founder of "The School of Hard Knocks," which features interviews with successful entrepreneurs, business insights, and life guidance for aspiring millionaires.
 
 ![School of Hard Knocks Mindmap](assets/mindmap.png)
-You  may find the filenames above which are inside this repository as follows:
+You may find the following filenames inside this repository along with their OPML counterparts:
 - success-wealth-and-entrepreneurship-2025-10-02T05-39.pdf
 - success-wealth-principles-millionaire-ad-2025-10-02T05-36.pdf
 - blueprint-to-success-and-wealth-2025-10-02T05-33.pdf
