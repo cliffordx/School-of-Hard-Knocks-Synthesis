@@ -50,4 +50,17 @@ If you are the copyright owner and believe that the material has been used impro
 
 By using this repository, you acknowledge that the content is not for commercial use and is provided solely to support learning and knowledge-sharing.
 
----
+## Data Collection and YouTube Policy Compliance
+
+This repository contains only publicly available video metadata (titles, descriptions, publication dates) extracted from "The School of Hard Knocks" YouTube channel. No video or audio content has been downloaded, stored, or redistributed. 
+
+The collection and use of this metadata complies with YouTube's Terms of Service and API policies, as it:
+- Uses only publicly visible information
+- Serves educational and research purposes
+- Does not involve commercial exploitation
+- Falls under fair use provisions for educational commentary and analysis
+- Includes proper attribution to the original content creators
+
+This project transforms publicly available data into an educational resource and does not compete with or harm the original channel's market presence.
+
+**[Thursday, October 2, 2025; 14:43:04]** The Paksiteer.
