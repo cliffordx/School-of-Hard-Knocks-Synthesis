@@ -95,4 +95,5 @@ The collection and use of this metadata complies with YouTube's Terms of Service
 This project transforms publicly available data into an educational resource and does not compete with or harm the original channel's market presence. **[Thursday, October 2, 2025; 14:43:04]** The Paksiteer.
 
 ## 📝 Changelog
+- **[Friday, October 3, 2025; 13:03:28]** Change MIT license to Creative Commons BY-NC-ND 4.0 license
 - **[Thursday, October 2, 2025; 16:38:47]**: Included the OPML files (outline processor markup language) to be loaded into your own workflow/mindmap etc.
