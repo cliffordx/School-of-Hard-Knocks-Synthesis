@@ -8,7 +8,7 @@ The mindmap captures the comprehensive advice and strategies shared by James Dum
 
 At the time of this project, the compendium was derived from **706 videos** available on the official YouTube channel. 
 
-> NOTE: I have no plans to add other than those existing at the time this project is undertaken.
+> NOTE: I have no plans to add other than those existing at the time this project was undertaken.
 
 ![School of Hard Knocks Mindmap](assets/mindmap.png)
 You may find the following filenames inside this repository along with their OPML counterparts:
